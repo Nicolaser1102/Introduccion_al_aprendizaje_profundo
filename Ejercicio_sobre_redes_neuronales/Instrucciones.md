@@ -6,9 +6,12 @@ Asegúrate de revisar que your playground  está montada como la imagen a contin
 
 **Documento de preguntas y respuestas - parte 1**
 
-[Deber Redes Neuronales Parte 1.docx](https://github.com/Nicolaser1102/Introduccion_al_aprendizaje_profundo/files/8311862/Deber.Redes.Neuronales.Parte.1.docx)
+
+[Deber.Redes.Neuronales.Parte.1.docx](https://github.com/Nicolaser1102/Introduccion_al_aprendizaje_profundo/files/8311869/Deber.Redes.Neuronales.Parte.1.docx)
 
 Parte 2
 Ahora, pon las redes neuronales en acción. Se te pide construir una red neuronal usando los datos de los concursos de Kaggle que prefieras en Week 10's Gradient Boosting Exercise Aquí, se te pidió competir en el concurso de Kaggle usando una método de potenciación del gradiente. Ahora, compite en el concurso que elijas usando una red neuronal.
 
 **Notebook de Google Colab, adjuntado en la carpeta de Git Hub**
+
+
